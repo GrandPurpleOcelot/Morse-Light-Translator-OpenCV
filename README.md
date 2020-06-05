@@ -8,3 +8,5 @@ Morse code is a method of transmitting text information as a series of on-off to
 
 This project translates morse code from blinking light into plain english. A webcam is used to read the pulsing of a smartphone's flashlight, which then can be converted to Latin alphabet, including numbers and some punctuations.
 
+![gif](/static/cap.gif)
+
