@@ -27,7 +27,5 @@ def convertMorseToText(morse_string):
         except (TypeError, AttributeError):
             return "No message detected"
 
-# test_case2 = '... --- ... --..---..-.'
-# test_case2 = ''
-# print(convertMorseToText(test_case2))
+
 
