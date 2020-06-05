@@ -12,4 +12,5 @@ This project translates morse code from blinking light into plain english. A web
 
 ## How to run?
 
-Run the main module: `morse_light_reader.py`. Ctrl + C to escape video stream.
+
+Install the requirement.txt and run the main module: `morse_light_reader.py`. Ctrl + C to escape video stream.
