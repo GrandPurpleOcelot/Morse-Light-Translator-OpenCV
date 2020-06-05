@@ -10,3 +10,6 @@ This project translates morse code from blinking light into plain english. A web
 
 ![gif](/static/cap.gif)
 
+## How to run?
+
+Run the main module: `morse_light_reader.py`. Ctrl + C to escape video stream.
